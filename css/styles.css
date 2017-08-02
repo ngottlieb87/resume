@@ -1,12 +1,13 @@
 
 .right{
-  float: right;;
+  float: right;
 }
 .left{
   float: left;
 }
 .colums{
-  columns: 2
+  columns: 2;
+  list-style-position: inside;
 }
 table{
   font-weight: bold;
